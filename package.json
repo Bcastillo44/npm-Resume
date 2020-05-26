@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/Bcastillo44/npm-Resume/issues"
   },
-  "homepage": "https://github.com/Bcastillo44/npm-Resume#readme"
+  "homepage": "https://github.com/Bcastillo44/npm-Resume#README"
 {
   "bin": {
   "bryancastillo-resume": "./index.js"
