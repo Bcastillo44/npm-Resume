@@ -1,0 +1,22 @@
+{
+  "name": "bryancastillo-resume",
+  "version": "1.0.0",
+  "description": "my resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bcastillo44/npm-Resume.git"
+  },
+  "author": "Bryan Castillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bcastillo44/npm-Resume/issues"
+  },
+  "homepage": "https://github.com/Bcastillo44/npm-Resume#readme"
+{
+  "bin": {
+  "bryancastillo-resume": "./index.js"
+},
